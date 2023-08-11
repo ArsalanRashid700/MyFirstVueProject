@@ -1,0 +1,216 @@
+{
+  "users": [
+    {
+      "name": "saad",
+      "email": "saad@test.com",
+      "password": "saad123",
+      "id": 1
+    },
+    {
+      "name": "arslan",
+      "email": "arsalan@test.com",
+      "password": "arsalan123",
+      "id": 2
+    },
+    {
+      "name": "arslan",
+      "email": "arsalan@test.com",
+      "password": "arsalan123",
+      "id": 3
+    },
+    {
+      "name": "x",
+      "email": "x",
+      "password": "x",
+      "id": 4
+    },
+    {
+      "name": "noman",
+      "email": "noman@test.com",
+      "password": "noman123",
+      "id": 5
+    },
+    {
+      "name": "ars",
+      "email": "ars@test.com",
+      "password": "arsalan",
+      "id": 6
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 8
+    },
+    {
+      "name": "babr",
+      "email": "bbar@test.com",
+      "password": "babr12345",
+      "id": 9
+    },
+    {
+      "name": "abd",
+      "email": "abc@email.com",
+      "password": "JXGSGS",
+      "id": 10
+    },
+    {
+      "name": "abd",
+      "email": "abc@email.com",
+      "password": "JXGSGS",
+      "id": 11
+    },
+    {
+      "name": "abd",
+      "email": "abc@email.com",
+      "password": "JXGSGS",
+      "id": 12
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 13
+    },
+    {
+      "name": "waqas",
+      "email": "waqas@test.com",
+      "password": "12344",
+      "id": 14
+    },
+    {
+      "name": "waqas",
+      "email": "waqas@test.com",
+      "password": "12344",
+      "id": 15
+    },
+    {
+      "name": "sad",
+      "email": "cdcd",
+      "password": "cecfc",
+      "id": 16
+    },
+    {
+      "name": "john",
+      "email": "john@test.com",
+      "password": "cewewc",
+      "id": 17
+    },
+    {
+      "name": "john",
+      "email": "john@test.com",
+      "password": "cewewc",
+      "id": 18
+    },
+    {
+      "name": "john",
+      "email": "john@test.com",
+      "password": "cewewc",
+      "id": 19
+    },
+    {
+      "name": "bilal",
+      "email": "aded",
+      "password": "adee",
+      "id": 20
+    },
+    {
+      "name": "bilal",
+      "email": "sjcadsbn",
+      "password": "cadcmadc",
+      "id": 21
+    },
+    {
+      "name": "CEWWFE",
+      "email": "FRWRWE",
+      "password": "CWWR",
+      "id": 22
+    },
+    {
+      "name": "faizan",
+      "email": "faizan@test.com",
+      "password": "faizan12345",
+      "id": 23
+    },
+    {
+      "name": "bilal",
+      "email": "bilal@test.com",
+      "password": "bilal123",
+      "id": 24
+    },
+    {
+      "name": "khuram",
+      "email": "khuram@test.com",
+      "password": "khuram123",
+      "id": 25
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 26
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "KFC",
+      "address": "Sharah- e-Faisal",
+      "contact": 111,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Dominos",
+      "address": "pechs block 6",
+      "contact": 222
+    },
+    {
+      "id": 3,
+      "name": "PizzaHutt",
+      "address": "defence",
+      "contact": 333
+    },
+    {
+      "name": "burgerlab",
+      "address": "Building number 2",
+      "contact": "111",
+      "id": 4
+    },
+    {
+      "name": "\"Dunkin' Donuts\"",
+      "address": "north nazimabad ",
+      "contact": "1010",
+      "id": 6
+    },
+    {
+      "name": "Nando's",
+      "address": "Pechs block 2",
+      "contact": "2123412",
+      "id": 7
+    },
+    {
+      "name": "Subway",
+      "address": "tariq road",
+      "contact": "333",
+      "id": 8
+    },
+    {
+      "name": "Burger King",
+      "address": "gulshan",
+      "contact": "9999",
+      "id": 10
+    },
+    {
+      "name": "bbq",
+      "address": "Defence",
+      "contact": "222",
+      "id": 11
+    }
+  ]
+}
