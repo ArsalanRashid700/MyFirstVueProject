@@ -34,7 +34,7 @@ export default {
             const result= await axios.post('http://localhost:3000/restaurant',{
                 name:this.restaurant.name,
                 address:this.restaurant.address,
-                contact:this.restaurant.contact
+                contact:this.restaurant.contact,
             });
             if(result.status==201){
                 this.$router.push({name:'homepage'})
